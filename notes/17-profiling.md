@@ -103,4 +103,4 @@ client.Get("http://your-api.com/v1/list.json")
 
 ToDo: Доразобрать тему
 
-[<< Предыдущая](15-internals-memory.md) | [Оглавление](../readme.md)
+[<< Предыдущая](15-internals-memory.md) | [Оглавление](../readme.md) | [Следующая >>](20-tcp-udp-dns.md)

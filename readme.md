@@ -12,3 +12,4 @@
 10. [Кодогенерация](notes/14-reflection.md)
 11. [Go Internals: Память](notes/15-internals-memory.md)
 12. [Профилирование и оптимизация](notes/17-profiling.md)
+13. [Низкоуровневые протоколы: TCP, UDP, DNS](notes/20-tcp-udp-dns.md)
