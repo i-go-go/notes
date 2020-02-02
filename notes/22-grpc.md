@@ -288,4 +288,4 @@ message Foo {
 
 Пример реализации различных типов gRPC API: [grpc-streams.zip](../extra/grpc-streams.zip)
 
-[<< Предыдущая](21-http.md) | [Оглавление](../readme.md)
+[<< Предыдущая](21-http.md) | [Оглавление](../readme.md) | [Следующая >>](23-database.md)
