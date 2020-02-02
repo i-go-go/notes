@@ -1,5 +1,6 @@
 # Golang Notes
 
-1. [Tools](notes/01-tools.md)
-2. [Strings](notes/02-strings.md)
-3. [Array and slices](notes/02-strings.md)
+1. [Инструменты разработчика](notes/01-tools.md)
+2. [Строки (Strings)](notes/02-strings.md)
+3. [Массивы и слайсы](notes/03-slices.md)
+4. [Горутины и каналы](notes/08-goroutines.md)
