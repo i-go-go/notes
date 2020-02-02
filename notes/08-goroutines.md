@@ -313,14 +313,6 @@ func Merge(in1, in2 <-chan interface{}) <-chan interface{} {
 }
 ```
 
-## Работа планировщика Go
-Scheduling In Go:
-* [Part I: OS Scheduler](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html)
-* [Part II: Go Scheduler](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html)
-* [Part III: Concurrency](https://www.ardanlabs.com/blog/2018/12/scheduling-in-go-part3.html)
-
-[Google I/O 2012: Go Concurrency Patterns (Rob Pike)](https://youtu.be/f6kdp27TYZs)
-
 ### Факты о планировщике
 * В Go не-вытесняющий планировщик (пока, но скоро будет наоборот), т.е. нет гарантии что планировщик заменит одну
 горутину на другую. К примеру если в горутине внутри работает длительный цикл или рассчитывается какая-то математика.
@@ -334,10 +326,15 @@ Scheduling In Go:
 * Длинные циклы и вычисления не могут быть прерваны (пока), это может приводить к зависанию
 * С помощью `runtime.GOMAXPROCS` можно указать доступное Go число ядер процессора
 
-Статья о том, когда планировщик может перекидывать горутины на другие ядра процессора:
-[Work-Stealing in Go Scheduler](https://medium.com/a-journey-with-go/go-work-stealing-in-go-scheduler-d439231be64d)
+## Работа планировщика Go
+Scheduling In Go:
+* [Part I: OS Scheduler](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html)
+* [Part II: Go Scheduler](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html)
+* [Part III: Concurrency](https://www.ardanlabs.com/blog/2018/12/scheduling-in-go-part3.html)
 
-Хороший доклад об concurrency в Go:
-[Как не ошибиться с конкурентностью в Go](https://habr.com/ru/company/avito/blog/466495/)
+## Полезные ссылки
+* [Когда планировщик может перекидывать горутины на другие ядра процессора](https://medium.com/a-journey-with-go/go-work-stealing-in-go-scheduler-d439231be64d)
+* [Как не ошибиться с конкурентностью в Go](https://habr.com/ru/company/avito/blog/466495/)
+* [Google I/O 2012: Go Concurrency Patterns (by Rob Pike)](https://youtu.be/f6kdp27TYZs)
 
-[<< Предыдущая](03-slices.md) | [Оглавление](../readme.md)
+[<< Предыдущая](03-slices.md) | [Оглавление](../readme.md) | [Следующая >>](09-sync.md)
