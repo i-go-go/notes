@@ -451,4 +451,4 @@ go install -race mypkg	// to install the package
 * [Презентация с разбором Race Detector](http://robertknight.github.io/talks/golang-race-detector.html)
 * [Более подробно про работу с памятью в Go (The Go Memory Model)](https://golang.org/ref/mem)
 
-[<< Предыдущая](08-goroutines.md) | [Оглавление](../readme.md)
+[<< Предыдущая](08-goroutines.md) | [Оглавление](../readme.md) | [Следующая >>](10-io.md)
