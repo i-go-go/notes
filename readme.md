@@ -9,7 +9,7 @@
 7.  [Форматирование данных](notes/11-formats.md)
 8.  [Взаимодействие с ОС](notes/12-os.md)
 9.  [Рефлексия](notes/13-reflection.md)
-10. [Кодогенерация](notes/14-reflection.md)
+10. [Кодогенерация](notes/14-code-generation.md)
 11. [Go Internals: Память](notes/15-internals-memory.md)
 12. [Профилирование и оптимизация](notes/17-profiling.md)
 13. [Низкоуровневые протоколы: TCP, UDP, DNS](notes/20-tcp-udp-dns.md)
