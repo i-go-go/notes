@@ -91,4 +91,4 @@ for {
 **ProtoBuf** - бинарный протокол от Google для передачи данных (см. [Google Protocol Buffers](https://developers.google.com/protocol-buffers/)).
 Он позволяет делать более компактной передачу данных. Часто используется вместе с gRPC.
 
-[<< Предыдущая](10-io.md) | [Оглавление](../readme.md)
+[<< Предыдущая](10-io.md) | [Оглавление](../readme.md) | [Следующая >>](12-os.md)
