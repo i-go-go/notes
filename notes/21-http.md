@@ -354,4 +354,4 @@ mux.HandleFunc("/add_item", authorize(handler.AddItem))
 * [[RU] Доклад про использование GraphQL в Go](https://youtu.be/tv8muwgj-Y4)
 * [[EN] Про дизайн клиента и middleware](https://youtu.be/SlhG7bCRA6Q)
 
-[<< Предыдущая](20-tcp-udp-dns.md) | [Оглавление](../readme.md)
+[<< Предыдущая](20-tcp-udp-dns.md) | [Оглавление](../readme.md) | [Следующая >>](22-grpc.md)
