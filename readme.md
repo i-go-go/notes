@@ -13,3 +13,4 @@
 11. [Go Internals: Память](notes/15-internals-memory.md)
 12. [Профилирование и оптимизация](notes/17-profiling.md)
 13. [Низкоуровневые протоколы: TCP, UDP, DNS](notes/20-tcp-udp-dns.md)
+14. [HTTP библиотека](notes/21-http.md)
