@@ -182,4 +182,4 @@ type mspan struct {
 
 ToDo: Доразобрать лекцию
 
-[<< Предыдущая](14-code-generation.md) | [Оглавление](../readme.md)
+[<< Предыдущая](14-code-generation.md) | [Оглавление](../readme.md) | [Следующая >>](17-profiling.md)

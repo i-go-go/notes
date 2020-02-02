@@ -11,3 +11,4 @@
 9.  [Рефлексия](notes/13-reflection.md)
 10. [Кодогенерация](notes/14-reflection.md)
 11. [Go Internals: Память](notes/15-internals-memory.md)
+12. [Профилирование и оптимизация](notes/17-profiling.md)
