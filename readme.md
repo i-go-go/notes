@@ -10,3 +10,4 @@
 8.  [Взаимодействие с ОС](notes/12-os.md)
 9.  [Рефлексия](notes/13-reflection.md)
 10. [Кодогенерация](notes/14-reflection.md)
+11. [Go Internals: Память](notes/15-internals-memory.md)

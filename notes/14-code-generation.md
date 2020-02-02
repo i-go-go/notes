@@ -160,4 +160,4 @@ func main() {
 go run -ldflags '-X main.VersionString=1.0' main.go
 ```
 
-[<< Предыдущая](13-reflection.md) | [Оглавление](../readme.md)
+[<< Предыдущая](13-reflection.md) | [Оглавление](../readme.md) | [Следующая >>](15-internals-memory.md)
